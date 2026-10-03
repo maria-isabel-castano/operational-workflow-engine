@@ -1,0 +1,5 @@
+[
+  {"request_id":"REQ-1041","amount":850,"source":"web-form"},
+  {"request_id":"REQ-1042","amount":7200,"source":"api"},
+  {"request_id":"REQ-1043","amount":-10,"source":"email"}
+]
